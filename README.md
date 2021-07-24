@@ -1,2 +1,2 @@
-# "Da_and_lrm.pynb" complete project
+# "Da_and_lrm.ipynb" complete project
 # "data.csv" dataset use for the project
